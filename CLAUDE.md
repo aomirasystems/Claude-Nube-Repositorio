@@ -1,4 +1,4 @@
-# CLAUDE.md
+# CLAUDE.md — Claude-Nube-Repositorio
 
 Repositorio base de **aomirasystems** para sesiones de Claude Code en la nube.
 

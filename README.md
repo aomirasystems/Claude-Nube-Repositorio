@@ -1,4 +1,4 @@
-# aomirasystems — Base para Claude en la nube
+# Claude-Nube-Repositorio
 
 Repositorio base por defecto de **aomirasystems** para sesiones de Claude Code en la nube.
 
